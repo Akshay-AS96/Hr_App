@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "date": "Jan 26",
+    "holiday": "Republic Day",
+    "title": "Holiday"
+  },
+  {
+    "id": 2,
+    "date": "Mar 4",
+    "holiday": "Shivarathri",
+    "title": "Holiday"
+  },
+  {
+    "id": 3,
+    "date": "Apr 14",
+    "holiday": "Ambedkar jayanthy",
+    "title": "Holiday"
+  },
+  {
+    "id": 4,
+    "date": "Apr 15",
+    "holiday": "Vishu",
+    "title": "Holiday"
+  },
+  {
+    "id": 5,
+    "date": "Apr 18",
+    "holiday": "Maundy Thursday	",
+    "title": "Holiday"
+  },
+  {
+    "id": 6,
+    "date": "Apr 19",
+    "holiday": "Good Friday",
+    "title": "Holiday"
+  },
+  {
+    "id": 7,
+    "date": "May 1",
+    "holiday": "International Workers' Day",
+    "title": "Holiday"
+  },
+{
+    "id": 8,
+    "date": "Jun 5",
+    "holiday": "Eid al-Fitr",
+    "title": "Holiday"
+  }
+]
