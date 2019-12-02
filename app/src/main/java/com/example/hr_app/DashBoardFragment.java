@@ -29,7 +29,6 @@ public class DashBoardFragment extends Fragment {
     private ImageButton notification;
     private static final String ARG_PARAM1 = "param1";
     private static final String ARG_PARAM2 = "param2";
-    private String test;
 
     private OnFragmentInteractionListener mListener;
 
