@@ -15,7 +15,7 @@ import android.widget.ImageButton;
 
 
 /**
- * A simple {@link Fragment} subclass.
+ * A simple {@link Fragment} subclassh.
  * Activities that contain this fragment must implement the
  * {@link DashBoardFragment.OnFragmentInteractionListener} interface
  * to handle interaction events.
